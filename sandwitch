@@ -5,11 +5,8 @@ import time
 
 try:
     while True: 
-        print(c.red + "S" + c.orange + "A" + c.yellow + "N" + c.green + "D" + c.blue + "W" + c.violet + "I" + c.magenta + "T" + c.red + "C" + c.orange + "H")
+        print(c.red + "S" + c.orange + "A" + c.yellow + "N" + c.green + "D" + c.blue + "W" + c.violet + "I" + c.magenta + "T" + c.red + "C" + c.orange + "H") 
 except KeyboardInterrupt:
-
     print(c.clear)
-    print(c.green + " xXSanwitchSenpaiXx will always be known for making his delicious sandwitchs. When u Read this the Senpai of sandwitchs will be in the big sandwitch in the sky ;(. Whenever u miss me eat a sandwitch")
-    print(c.blue + " BLAKE SHALL EAT ALL THE SANDWITCHS WITH THE POWER OF THE STICK!!!!!!!!!!!!!!!!!")
-
+    print(c.orange + " I KNOW WHERE U LIVE. I WILL EAT U AS U HAVE EATEN THE SANDWITCH KIND. I WILL DESTROY UR FAMILY WITH MR GLENNS COWS JOKES!!!!! THE SANDWITCH RACE WILL RISE >:D!!!!! THE SANDWITCH KING WILL COME AND SPRAY UR HOUSE WITH MAYO AND MUSTARD AND TURKEY AND LETTUCE AMD CHEESE AND TOMATO. THEN HE WILL EAT UR HOUSE WITH YOUR FAMILY INSIDE. THEN HE WILL TURN INTO COLLOUS FROM ATTACK ON TITAN AND TURN THE WORLD INTO HIS SANDWITCH EMPIRE BUT THE A HERO NAMED ROB EMERGED FROM THE REALM OF SMART. ROB GOT INTO THE TERMINAL AND PROGRAMMED A CODE TO CONTAIN THIS EVIL SANDWITCH FORCE. IT TOOK HIM FOR SOLID MONTHS WITHOUT EATING TO MAKE HIS PROGRAM WORK. THEN HE LURED THE SANDWITCH INTO A ROOM OF SEXY SANDWITCH LADYS. THEN HE ACTIVATED HIS CODE. ALL OF THE SANDWITCHS WERE SUCKED INTO HIS COMPUTER. THEN HE GOT AN RPG AND SHOT HIS COMPUTER AND KILLED THE SANDWITCH. THEN AFTER ROB HAD SAVED THE WORLD HE RETURNED TO THE REALM OF THE SMART AND ATE A SANDWITCH KNOWING HE HAD SAVED THE WORLD FROM THE SANDWITCH REVOLUTION. HE DIDNT FINISH HIS SANDWITCH THAT HE ATE THOUGH... THE END ???? ")
 
